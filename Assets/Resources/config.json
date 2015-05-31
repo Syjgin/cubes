@@ -1,0 +1,23 @@
+{
+	"Enemies":
+	{
+		"MaxCount": 15,
+		"Velocity": 0.03,
+		"AngularVelocity": 6,
+		"CourseChangeTime": 1,
+		"StopSeekingTime": 7,
+		"DirectAttackDistance": 10,
+		"DirectAttackVelocity": 0.2
+	},
+	"Hero":
+	{
+		"Velocity": 0.11,
+		"AngularVelocity": 5,
+		"JumpVerticalSpeed": 400,
+		"ShotInterval": 0.2,
+		"LifesCount": 3,
+		"BulletSpeed": 1,
+		"BulletDistance": 40,
+		"JumpHorizontalSpeed": 0.13
+	}
+}

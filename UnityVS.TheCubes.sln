@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TheCubes.CSharp", "UnityVS.TheCubes.CSharp.csproj", "{955F16F0-BC86-14FA-DC81-CB7565511D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TheCubes.CSharp.Editor", "UnityVS.TheCubes.CSharp.Editor.csproj", "{588D7F85-F500-6181-5A2F-B2243897BC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955F16F0-BC86-14FA-DC81-CB7565511D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955F16F0-BC86-14FA-DC81-CB7565511D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955F16F0-BC86-14FA-DC81-CB7565511D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955F16F0-BC86-14FA-DC81-CB7565511D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588D7F85-F500-6181-5A2F-B2243897BC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588D7F85-F500-6181-5A2F-B2243897BC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588D7F85-F500-6181-5A2F-B2243897BC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588D7F85-F500-6181-5A2F-B2243897BC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
